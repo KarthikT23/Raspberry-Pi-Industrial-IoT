@@ -116,6 +116,7 @@ Program output in shell
 
 
 
+<br>
 
 LED glowing, indicating invalid RFID
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/49cbc061-4a85-4ecd-b8b9-a4bdb6bc6f21)
@@ -129,6 +130,7 @@ LED glowing, indicating invalid RFID
 
 
 
+<br>
 
 Pushbullet notifications on phone
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/4832ba15-a5de-4a27-bc48-8ef6c5d5b036)
