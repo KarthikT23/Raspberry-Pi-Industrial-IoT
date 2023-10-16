@@ -32,7 +32,8 @@ g) ThingSpeak
 
 # Raspbian / Raspberry Pi OS
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/2133a21f-3acb-4cfc-b667-5e9c701c0edd)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/b4624d9f-89fe-4480-8aad-9529f8d5c8fb)
+
 
 
 
