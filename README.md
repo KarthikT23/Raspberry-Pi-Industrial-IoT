@@ -32,7 +32,9 @@ g) ThingSpeak
 
 # Raspbian / Raspberry Pi OS
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/19011416-f07f-4ab6-bdc4-2fcf538ea468)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/2133a21f-3acb-4cfc-b667-5e9c701c0edd)
+
+
 
 
 # Adafruit DHT11 sensor
@@ -110,13 +112,24 @@ Program output in shell
 
 
 
+
+
+
 LED glowing, indicating invalid RFID
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/49cbc061-4a85-4ecd-b8b9-a4bdb6bc6f21)
 
 
 
+
+
+
+
 Pushbullet notifications on phone
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/4832ba15-a5de-4a27-bc48-8ef6c5d5b036)
+
+
+
+
 
 
 
@@ -126,6 +139,9 @@ Temperature and Humidity values plotted against time in ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/c9361975-1df0-4938-9eb2-7b072860aaf9)
 
 
+
+
+
 Temperature and Humidity gauges in ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/29584991-2a59-4fcc-9555-6f1d45eff876)
 
@@ -133,8 +149,14 @@ Temperature and Humidity gauges in ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/72232024-096f-4f96-9591-c90bb8e89c4e)
 
 
+
+
+
 Temperature and Humidity numeric displays in ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/0a7a1fd3-c4da-48d2-a455-7208a86118d7)
+
+
+
 
 
 Correlation between Temperature and Humidity plotted in ThingSpeak
