@@ -54,6 +54,14 @@ i) ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/88f46e4d-0024-477c-83da-bd74fd2d93e6)
 
 
+# BH1750 Ambient Light Sensor
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/f14f20ca-a6e8-48fb-9e5d-7f4a16d690a1)
+
+# BMP180 Pressure Sensor
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/ea1f5b8e-6241-418e-ae2d-67fae6e23723)
+
+
+
 # LEDs and Buzzers
 
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/c675223d-85e2-4a4c-bd76-067857b387c7)
@@ -85,27 +93,33 @@ https://thingspeak.com/
 
 # Block Diagram
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/29ac6d38-8896-425c-b7c6-5ef279557de6)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/d4cd5ca9-9712-4c06-8db7-8916211d1b0c)
+
 
 
 # Flowchart
 
-![Flowchart](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/5bfb02e5-94be-4553-b84a-e024b4f4aebb)
+![Flowchart](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/f9a00c66-5700-45df-b15b-6e268d099dde)
+
 
 
 # Circuit Diagram
 
 Connect the Vcc pin of DHT11 Sensor to Pin 2 of Raspberry Pi, Gnd pin of DHT11 Sensor to Pin 6 of Raspberry Pi and the Out pin of DHT11 Sensor to GPIO 26 of the Raspberry Pi. Also connect the + terminal of LED to GPIO 21, + terminal of buzzer to GPIO 20 and connect the ground pins of both to Pin 6 of Raspberry Pi.
 
+Connect the SDA and SCL pins of both BMP180 and BH1750 to Pins 3 and 5 respectively. Connect 3V3 pin to Pin 1, GND and ADDR to Pin 6.
+
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/9d6679c1-562d-4579-b995-06faebf587ea)
 
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/2518b397-0cb2-4b13-b481-7a5876aaf5c9)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/f71c01fd-c164-41c4-9efb-1b909ed6bc2e)
+
 
 
 # Setup
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/ec7d1995-5e41-400e-b482-b1c21f7a758c)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/c3116247-6cee-4082-acbd-8acf898a1847)
+
 
 
 
@@ -115,7 +129,8 @@ ThingSpeak: https://thingspeak.com/channels/2304287
 
 
 Program output in shell
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/4e31670e-d249-48dc-8b71-ce28717ef94d)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/3301556f-f1b9-4a46-bed4-cbee70594b48)
+
 
 
 
@@ -180,6 +195,23 @@ Temperature and Humidity numeric displays in ThingSpeak
 
 Correlation between Temperature and Humidity plotted in ThingSpeak
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/a22fbe89-0f48-4dd7-9081-9ae0d0d3c580)
+
+
+Pressure and Altitude values plotted against time in ThingSpeak
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/d13f6817-bc8a-4348-ba23-f8e5b715a5bc)
+
+
+Sea Level Pressure and Ambient Light values plotted against time in ThingSpeak
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/28aaf9ca-8cc2-4ed3-9cdb-c38919ae7849)
+
+
+Dew Point and Air Density values plotted against time in ThingSpeak
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/2a602405-67f2-4fd5-992e-b444eef2d737)
+
+
+
+All sensor parameters stored in a CSV file
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/a90639b8-a680-4593-9941-3bc610da942a)
 
 
 
