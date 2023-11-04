@@ -169,19 +169,16 @@ Pushbullet notifications on phone
 # Outputs in ThingSpeak
 
 Temperature and Humidity values plotted against time in ThingSpeak
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/9aa8281d-9cae-45d2-8082-d9de79c98579)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/ae56cd92-c602-4cdc-b939-789a80d6b136)
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/c9361975-1df0-4938-9eb2-7b072860aaf9)
 
 
 
 
 
 Temperature and Humidity gauges in ThingSpeak
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/29584991-2a59-4fcc-9555-6f1d45eff876)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/6065cbd7-e374-4a4c-bc31-7f648852a9f0)
 
-
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/72232024-096f-4f96-9591-c90bb8e89c4e)
 
 
 
