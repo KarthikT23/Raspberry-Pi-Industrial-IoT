@@ -13,13 +13,17 @@ b) RC522 RFID Reader and Card
 
 c) Adafruit DHT11 sensor
 
-d) LEDs and Buzzers
+d) BH1750 Ambient Light Sensor
 
-e) Jumper Wires
+e) BMP180 Pressure Sensor
 
-f) Pushbullet
+f) LEDs and Buzzers
 
-g) ThingSpeak
+g) Jumper Wires
+
+h) Pushbullet
+
+i) ThingSpeak
 
 # Raspberry Pi Model 3B+
 
