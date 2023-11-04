@@ -118,7 +118,7 @@ Connect the SDA and SCL pins of both BMP180 and BH1750 to Pins 3 and 5 respectiv
 
 # Setup
 
-![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/d2ecff89-86d1-4eb5-84f2-9a124cb59dba)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Industrial-IoT/assets/119528503/53f0bb53-9114-456f-ad99-a2ebe7e8e1b9)
 
 
 
