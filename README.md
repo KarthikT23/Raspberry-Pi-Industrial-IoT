@@ -1,7 +1,8 @@
 # Raspberry-Pi-Industrial-IoT
 
 
-Raspberry Pi Industrial Monitoring, Management, and Data Acquisition System RFID Reader checks the validity of a RFID Card. If the card is valid, RPi sends an alert to the phone through Pushbullet, and then uses DHT11 to capture Temperature and Humidity values continuously, and plots them on ThingSpeak
+Raspberry Pi Industrial Monitoring, Management, and Data Acquisition System 
+RFID Reader checks the validity of a RFID Card. If the card is valid, RPi sends an alert to the phone, and then uses sensors to capture and calculate various parameters, and plots them on ThingSpeak
 
 # Requirements
 
